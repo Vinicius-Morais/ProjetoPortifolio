@@ -69,9 +69,9 @@ header {
     color: white;
     letter-spacing: .1rem;
     text-transform: uppercase;
-    background: #ff00cc; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #ff00cc, #333399); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #ff00cc, #333399); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ff416c; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #ff416c, #ff4b2b); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #ff416c, #ff4b2b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     padding: 1rem 2.2rem;
     border:none;
     border-radius: 5px;
